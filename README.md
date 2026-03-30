@@ -9,6 +9,7 @@ Our project looks at whether polarity-based sentiment models can distinguish bet
 - **Pure-Negative (PN):** reviews that express dissatisfaction without those engagement-related cues
 
 The project combines a rule-based classification approach with benchmarking across several sentiment analysis systems.
+
 ---
 
 ## Data
@@ -24,6 +25,7 @@ To reproduce the analysis:
 3. Place it in the project root directory
 
 The analysis assumes that the CSV file is stored in the same directory as the notebooks.
+
 ---
 
 ## Research Question
@@ -37,6 +39,7 @@ To answer this, we:
 2. operationalised negative markers and engagement-related cues,
 3. constructed EN and PN sub-corpora, and
 4. benchmarked multiple sentiment models on these two subsets.
+
 ---
 
 ## Environment Setup
